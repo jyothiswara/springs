@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/com.springsource.bsh-2.0.0.b4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/com.springsource.com.caucho-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/com.springsource.com.ibatis-2.3.4.726.jar"/>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/com.springsource.commonj-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/com.springsource.edu.emory.mathcs.backport-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/com.springsource.javax.inject-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/com.springsource.javax.jdo-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/com.springsource.net.sf.cglib-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/com.springsource.org.aopalliance-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/com.springsource.org.apache.commons.fileupload-1.2.0 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/com.springsource.org.apache.commons.fileupload-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/com.springsource.org.apache.commons.httpclient-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/com.springsource.org.apache.commons.lang-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/com.springsource.org.apache.commons.pool-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/com.springsource.org.apache.log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/com.springsource.org.apache.taglibs.standard-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/com.springsource.org.codehaus.groovy-1.6.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/com.springsource.org.codehaus.jackson.mapper-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/com.springsource.org.jruby-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/com.springsource.org.junit-4.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/com.springsource.org.quartz-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/com.springsource.org.testng-5.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/commons-dbcp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/easymock.jar"/>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/jamon-2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/jmxremote.jar"/>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/jmxremote_optional.jar"/>
+	<classpathentry kind="lib" path="C:/Users/it/Desktop/sales/jmxri.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
